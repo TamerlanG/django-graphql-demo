@@ -1,0 +1,38 @@
+[
+    {
+        "model": "quest.quest",
+        "pk": 1,
+        "fields": {
+            "title": "Goblin Slayer",
+            "description": "The goblins are attacking the village. The villagers plead to you hero to save them.",
+            "category": 1
+        }
+    },
+    {
+        "model": "quest.quest",
+        "pk": 2,
+        "fields": {
+            "title": "Herb Collector",
+            "description": "The villagers are hurt due to the attack. We need herbs to create medicine.",
+            "category": 2
+        }
+    },
+    {
+        "model": "quest.quest",
+        "pk": 3,
+        "fields": {
+            "title": "Goblin Leader",
+            "description": "The goblins might come back. Let's strike them before!",
+            "category": 1
+        }
+    },
+    {
+        "model": "quest.quest",
+        "pk": 4,
+        "fields": {
+            "title": "Rags to Riches",
+            "description": "The goblin leader is dead. Let's loot the place.",
+            "category": 2
+        }
+    }
+]

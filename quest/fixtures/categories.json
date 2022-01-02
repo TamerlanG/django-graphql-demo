@@ -1,0 +1,16 @@
+[
+    {
+        "model": "quest.category",
+        "pk": 1,
+        "fields": {
+            "title": "Kill Quest"
+        }
+    },
+    {
+        "model": "quest.category",
+        "pk": 2,
+        "fields": {
+            "title": "Delivery quests"
+        }
+    }
+]
